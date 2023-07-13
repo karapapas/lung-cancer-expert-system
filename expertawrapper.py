@@ -1,5 +1,33 @@
-
+import numpy as np
 from experta import *
+
+class Utils():
+    
+    def __init__(self):
+        pass
+    
+    # we consider suspicion, tumor, nodes, metastasis and cancer stages ready to be determined 
+    # if no relevant requirement is missing (None)
+    def ready_to_determine(self, my_dict):
+        for value in my_dict.values():
+            if value is None:
+                return False
+        return True
+
+    def determine(self, engine, fact, data):
+        watch('RULES', 'FACTS')
+        engine.reset()
+        engine.declare(fact(**data))
+        engine.run()
+        return engine.get_result()
+    
+    def gaussian(self, min_value, max_value):
+        mean = (max_value + min_value) / 2.0
+        std_dev = (max_value - min_value) / 4.0
+        while True:
+            sample = np.random.normal(mean, std_dev)
+            if min_value <= sample <= max_value:
+                return sample
 
 class Result(Fact):
     value = Field(str, default="")
@@ -130,7 +158,7 @@ class MetastasisStage(BaseStage):
         self.declare(Result(value='M1a'))
     @Rule(METASTASIS_FACTS(separate_tumor_nodules=W(), distant_metastasis=True))
     def rule_metastasis_stage_m1b(self):
-        self.declare(Result(value='M2b'))
+        self.declare(Result(value='M1b'))
     
 class CancerStage(BaseStage):
     @Rule(OR(TNM_FACTS(T='Tx', N=W(), M=W()), 

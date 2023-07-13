@@ -531,3 +531,121 @@ Subject: 88, Cancer suspected: True, Cancer diagnosis: None, Total cost: 650.856
 Subject: 88, Cancer suspected: True, Cancer diagnosis: None, Total cost: 650.856978009536, Total delay: 107
 Subject: 88, Cancer suspected: True, Cancer diagnosis: None, Total cost: 650.856978009536, Total delay: 107
 Subject: 98, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 624.3465592454199, Total delay: 114
+Subject: 2, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.9703989162056, Total delay: 105
+Subject: 2, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.9703989162056, Total delay: 105
+Subject: 2, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.9703989162056, Total delay: 105
+Subject: 2, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.9703989162056, Total delay: 105
+Subject: 2, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.9703989162056, Total delay: 105
+Subject: 2, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.9703989162056, Total delay: 105
+Subject: 2, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.9703989162056, Total delay: 105
+Subject: 2, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.9703989162056, Total delay: 105
+Subject: 2, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.9703989162056, Total delay: 105
+Subject: 3, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 642.1331417845929, Total delay: 60
+Subject: 11, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 640.8323611053419, Total delay: 111
+Subject: 18, Cancer suspected: True, Cancer diagnosis: Stage IIIC, Total cost: 671.8753625539962, Total delay: 91
+Subject: 20, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.4233851204303, Total delay: 87
+Subject: 20, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.4233851204303, Total delay: 87
+Subject: 20, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.4233851204303, Total delay: 87
+Subject: 20, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.4233851204303, Total delay: 87
+Subject: 20, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.4233851204303, Total delay: 87
+Subject: 20, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.4233851204303, Total delay: 87
+Subject: 20, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.4233851204303, Total delay: 87
+Subject: 20, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.4233851204303, Total delay: 87
+Subject: 20, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.4233851204303, Total delay: 87
+Subject: 21, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 639.5684678020984, Total delay: 111
+Subject: 22, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 636.1013667726352, Total delay: 96
+Subject: 29, Cancer suspected: True, Cancer diagnosis: Stage IIIC, Total cost: 636.733432779211, Total delay: 90
+Subject: 49, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 648.0977578563333, Total delay: 86
+Subject: 51, Cancer suspected: True, Cancer diagnosis: Stage IIIC, Total cost: 638.8973031220878, Total delay: 98
+Subject: 53, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.212423041362, Total delay: 93
+Subject: 53, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.212423041362, Total delay: 93
+Subject: 53, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.212423041362, Total delay: 93
+Subject: 53, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.212423041362, Total delay: 93
+Subject: 53, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.212423041362, Total delay: 93
+Subject: 53, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.212423041362, Total delay: 93
+Subject: 53, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.212423041362, Total delay: 93
+Subject: 53, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.212423041362, Total delay: 93
+Subject: 53, Cancer suspected: True, Cancer diagnosis: None, Total cost: 643.212423041362, Total delay: 93
+Subject: 60, Cancer suspected: True, Cancer diagnosis: Stage IIIC, Total cost: 657.6144245098212, Total delay: 103
+Subject: 66, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 640.5527212682475, Total delay: 87
+Subject: 67, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 669.2171385683911, Total delay: 81
+Subject: 69, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 645.2334910010572, Total delay: 104
+Subject: 76, Cancer suspected: True, Cancer diagnosis: Stage IIIB, Total cost: 612.5473134216342, Total delay: 115
+Subject: 77, Cancer suspected: True, Cancer diagnosis: Stage IIIB, Total cost: 644.0911803833318, Total delay: 94
+Subject: 86, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 634.3633853586513, Total delay: 80
+Subject: 88, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 639.9857796812418, Total delay: 68
+Subject: 92, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 673.9490248615764, Total delay: 79
+Subject: 1, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 667.6591616020921, Total delay: 96
+Subject: 7, Cancer suspected: True, Cancer diagnosis: None, Total cost: 672.100422282906, Total delay: 90
+Subject: 7, Cancer suspected: True, Cancer diagnosis: None, Total cost: 672.100422282906, Total delay: 90
+Subject: 7, Cancer suspected: True, Cancer diagnosis: None, Total cost: 672.100422282906, Total delay: 90
+Subject: 7, Cancer suspected: True, Cancer diagnosis: None, Total cost: 672.100422282906, Total delay: 90
+Subject: 7, Cancer suspected: True, Cancer diagnosis: None, Total cost: 672.100422282906, Total delay: 90
+Subject: 7, Cancer suspected: True, Cancer diagnosis: None, Total cost: 672.100422282906, Total delay: 90
+Subject: 7, Cancer suspected: True, Cancer diagnosis: None, Total cost: 672.100422282906, Total delay: 90
+Subject: 7, Cancer suspected: True, Cancer diagnosis: None, Total cost: 672.100422282906, Total delay: 90
+Subject: 7, Cancer suspected: True, Cancer diagnosis: None, Total cost: 672.100422282906, Total delay: 90
+Subject: 8, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 640.8212216933604, Total delay: 106
+Subject: 15, Cancer suspected: True, Cancer diagnosis: Stage IIIC, Total cost: 620.9303847368418, Total delay: 85
+Subject: 21, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 626.1966053158519, Total delay: 51
+Subject: 23, Cancer suspected: True, Cancer diagnosis: Stage IIIB, Total cost: 642.113637048732, Total delay: 119
+Subject: 32, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 653.739883229125, Total delay: 105
+Subject: 36, Cancer suspected: True, Cancer diagnosis: None, Total cost: 640.2936913506228, Total delay: 96
+Subject: 36, Cancer suspected: True, Cancer diagnosis: None, Total cost: 640.2936913506228, Total delay: 96
+Subject: 36, Cancer suspected: True, Cancer diagnosis: None, Total cost: 640.2936913506228, Total delay: 96
+Subject: 36, Cancer suspected: True, Cancer diagnosis: None, Total cost: 640.2936913506228, Total delay: 96
+Subject: 36, Cancer suspected: True, Cancer diagnosis: None, Total cost: 640.2936913506228, Total delay: 96
+Subject: 36, Cancer suspected: True, Cancer diagnosis: None, Total cost: 640.2936913506228, Total delay: 96
+Subject: 36, Cancer suspected: True, Cancer diagnosis: None, Total cost: 640.2936913506228, Total delay: 96
+Subject: 36, Cancer suspected: True, Cancer diagnosis: None, Total cost: 640.2936913506228, Total delay: 96
+Subject: 36, Cancer suspected: True, Cancer diagnosis: None, Total cost: 640.2936913506228, Total delay: 96
+Subject: 39, Cancer suspected: True, Cancer diagnosis: None, Total cost: 637.8889664266495, Total delay: 67
+Subject: 39, Cancer suspected: True, Cancer diagnosis: None, Total cost: 637.8889664266495, Total delay: 67
+Subject: 39, Cancer suspected: True, Cancer diagnosis: None, Total cost: 637.8889664266495, Total delay: 67
+Subject: 39, Cancer suspected: True, Cancer diagnosis: None, Total cost: 637.8889664266495, Total delay: 67
+Subject: 39, Cancer suspected: True, Cancer diagnosis: None, Total cost: 637.8889664266495, Total delay: 67
+Subject: 39, Cancer suspected: True, Cancer diagnosis: None, Total cost: 637.8889664266495, Total delay: 67
+Subject: 39, Cancer suspected: True, Cancer diagnosis: None, Total cost: 637.8889664266495, Total delay: 67
+Subject: 39, Cancer suspected: True, Cancer diagnosis: None, Total cost: 637.8889664266495, Total delay: 67
+Subject: 39, Cancer suspected: True, Cancer diagnosis: None, Total cost: 637.8889664266495, Total delay: 67
+Subject: 41, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.220341886399, Total delay: 114
+Subject: 41, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.220341886399, Total delay: 114
+Subject: 41, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.220341886399, Total delay: 114
+Subject: 41, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.220341886399, Total delay: 114
+Subject: 41, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.220341886399, Total delay: 114
+Subject: 41, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.220341886399, Total delay: 114
+Subject: 41, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.220341886399, Total delay: 114
+Subject: 41, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.220341886399, Total delay: 114
+Subject: 41, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.220341886399, Total delay: 114
+Subject: 43, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 650.7631037912518, Total delay: 102
+Subject: 46, Cancer suspected: True, Cancer diagnosis: Stage IIIC, Total cost: 630.3905328819036, Total delay: 79
+Subject: 49, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.332069019936, Total delay: 82
+Subject: 49, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.332069019936, Total delay: 82
+Subject: 49, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.332069019936, Total delay: 82
+Subject: 49, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.332069019936, Total delay: 82
+Subject: 49, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.332069019936, Total delay: 82
+Subject: 49, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.332069019936, Total delay: 82
+Subject: 49, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.332069019936, Total delay: 82
+Subject: 49, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.332069019936, Total delay: 82
+Subject: 49, Cancer suspected: True, Cancer diagnosis: None, Total cost: 659.332069019936, Total delay: 82
+Subject: 53, Cancer suspected: True, Cancer diagnosis: Stage IIIA, Total cost: 636.2829875659797, Total delay: 101
+Subject: 72, Cancer suspected: True, Cancer diagnosis: None, Total cost: 663.4836349374665, Total delay: 96
+Subject: 72, Cancer suspected: True, Cancer diagnosis: None, Total cost: 663.4836349374665, Total delay: 96
+Subject: 72, Cancer suspected: True, Cancer diagnosis: None, Total cost: 663.4836349374665, Total delay: 96
+Subject: 72, Cancer suspected: True, Cancer diagnosis: None, Total cost: 663.4836349374665, Total delay: 96
+Subject: 72, Cancer suspected: True, Cancer diagnosis: None, Total cost: 663.4836349374665, Total delay: 96
+Subject: 72, Cancer suspected: True, Cancer diagnosis: None, Total cost: 663.4836349374665, Total delay: 96
+Subject: 72, Cancer suspected: True, Cancer diagnosis: None, Total cost: 663.4836349374665, Total delay: 96
+Subject: 72, Cancer suspected: True, Cancer diagnosis: None, Total cost: 663.4836349374665, Total delay: 96
+Subject: 72, Cancer suspected: True, Cancer diagnosis: None, Total cost: 663.4836349374665, Total delay: 96
+Subject: 73, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 652.0821332570216, Total delay: 97
+Subject: 95, Cancer suspected: True, Cancer diagnosis: None, Total cost: 641.3614128299527, Total delay: 82
+Subject: 95, Cancer suspected: True, Cancer diagnosis: None, Total cost: 641.3614128299527, Total delay: 82
+Subject: 95, Cancer suspected: True, Cancer diagnosis: None, Total cost: 641.3614128299527, Total delay: 82
+Subject: 95, Cancer suspected: True, Cancer diagnosis: None, Total cost: 641.3614128299527, Total delay: 82
+Subject: 95, Cancer suspected: True, Cancer diagnosis: None, Total cost: 641.3614128299527, Total delay: 82
+Subject: 95, Cancer suspected: True, Cancer diagnosis: None, Total cost: 641.3614128299527, Total delay: 82
+Subject: 95, Cancer suspected: True, Cancer diagnosis: None, Total cost: 641.3614128299527, Total delay: 82
+Subject: 95, Cancer suspected: True, Cancer diagnosis: None, Total cost: 641.3614128299527, Total delay: 82
+Subject: 95, Cancer suspected: True, Cancer diagnosis: None, Total cost: 641.3614128299527, Total delay: 82
+Subject: 100, Cancer suspected: True, Cancer diagnosis: Stage Undetermined, Total cost: 628.112260443797, Total delay: 97

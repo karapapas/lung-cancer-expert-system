@@ -1,9 +1,7 @@
-import pandas as pd
-import random
-import numpy as np
+
 import json
 
-from entities import *
+from subject import *
 
 class Synthesizer:
     
