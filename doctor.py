@@ -1,3 +1,5 @@
+
+from datetime import datetime
 from lab import Lab
 from experta import *
 from expertawrapper import *
@@ -11,6 +13,9 @@ tumor_engine = TumorStage()
 nodes_engine = NodesStage()
 metastasis_engine = MetastasisStage()
 cancer_engine = CancerStage()
+
+date_str = datetime.now().strftime('%Y%m%d')
+file_name = f'subjects_results_{date_str}.csv'
 
 class Doctor:
     
@@ -85,12 +90,18 @@ class Doctor:
                     result = (f'Subject: {subject.id}, '
                             f'Cancer suspected: {subject.cancer_suspected}, '
                             f'Cancer diagnosis: {subject.cancer_stage}, '
-                            f'Total cost: {subject.total_cost}, '
+                            f'Total cost: {round(subject.total_cost, 2)}, '
                             f'Total delay: {subject.total_delay}\n')
+                    logger =  (f'{subject.id}, '
+                            f'{subject.cancer_suspected}, '
+                            f'{subject.cancer_stage}, '
+                            f'{round(subject.total_cost, 2)}, '
+                            f'{subject.total_delay}\n')
                     print(result)
-                    with open('subjects_results.txt', 'a') as f:
-                        # Write the data to the file
-                        f.write(result)
+                    print(logger)
+
+                    with open(file_name, 'a') as f:
+                        f.write(logger)
                     return
                 else:
                     self.estimate(subject)

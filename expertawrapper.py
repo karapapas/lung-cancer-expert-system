@@ -1,3 +1,4 @@
+
 import numpy as np
 from experta import *
 
@@ -169,12 +170,6 @@ class CancerStage(BaseStage):
     @Rule(TNM_FACTS(T='T0', N='N0', M='M0'))
     def rule_stage_0(self):
         self.declare(Result(value='No indication')) # No indication of Lung Cancer was found
-#     @Rule(TNM_FACTS(T='Tis', N='N0', M='M0'))
-#     def rule_stage_0(self):
-#         self.declare(Result(value='Stage 0')) # in situ
-#     @Rule(TNM_FACTS(T='T1mi', N='N0', M='M0'))
-#     def rule_stage_ia1(self):
-#         self.declare(Result(value='Stage IA1')) # Non small cell lung cancer, adenocarcinoma
     @Rule(TNM_FACTS(T='T1a', N='N0', M='M0'))
     def rule_stage_ia2(self):
         self.declare(Result(value="Stage IA2"))
@@ -190,11 +185,18 @@ class CancerStage(BaseStage):
     def rule_stage_iia(self):
         self.declare(Result(value="Stage IIA"))
     @Rule(OR(TNM_FACTS(T='T1', N='N1', M='M0'), 
-             TNM_FACTS(T='T2', N='N1', M='M0')))
+             TNM_FACTS(T='T2', N='N1', M='M0'),
+             TNM_FACTS(T='T2a', N='N1', M='M0'),
+             TNM_FACTS(T='T2b', N='N1', M='M0')))
     def rule_stage_iib(self):
         self.declare(Result(value="Stage IIB"))
     @Rule(OR(TNM_FACTS(T='T1', N='N2', M='M0'), 
+             TNM_FACTS(T='T1a', N='N2', M='M0'), 
+             TNM_FACTS(T='T1b', N='N2', M='M0'), 
+             TNM_FACTS(T='T1c', N='N2', M='M0'), 
              TNM_FACTS(T='T2', N='N2', M='M0'), 
+             TNM_FACTS(T='T2a', N='N2', M='M0'), 
+             TNM_FACTS(T='T2b', N='N2', M='M0'), 
              TNM_FACTS(T='T3', N='N1', M='M0'), 
              TNM_FACTS(T='T3', N='N2', M='M0'), 
              TNM_FACTS(T='T4', N='N1', M='M0'), 

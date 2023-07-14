@@ -1,6 +1,7 @@
+
 import re
 import random
-from utilities import Utils
+from expertawrapper import Utils
 
 u = Utils()
 
@@ -58,6 +59,8 @@ class Lab:
                         subject.tumor_requirements['fna_and_pet_scan'] = True                    
                 else:
                     subject.tumor_requirements['diameter'] = 0.0
+                    subject.tumor_requirements['bronchoscopesis'] = False
+                    subject.tumor_requirements['cytologic'] = False
                     subject.tumor_requirements['nearby_organs'] = False
                     subject.tumor_requirements['fna_and_pet_scan'] = False
                 extra_cost = u.gaussian(self.pricelist["ct_scan"][0], self.pricelist["ct_scan"][1])
