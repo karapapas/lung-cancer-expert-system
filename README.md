@@ -31,8 +31,9 @@ Run the "experiment" Jupyter notebook.
 
 ## Feature Requests  
 1. Create rules that would also return exam orders apart from the Suspicion, T, N, M and Overal Stage estimates.  
-2. Create a web UI, using Streamlit or any other similar library.
-
-## Issues  
-1. Find statistics about how many cases of each cancer stage and non-cancer typically exist in a cohort and adapt these percentages in the funtion that generates the synthetic data, to have more realistic data.  
 2. Decouple the value addition to the properties of synthetic data from the estimate function and have these values determined during the synthetic data generation.
+
+## Backlog  
+1. Find statistics about how many cases of each cancer stage and non-cancer typically exist in a cohort and adapt these percentages in the funtion that generates the synthetic data, to have more realistic data.  
+2. Create a web UI, using Streamlit or any other similar library.
+3. Binarization of total financial and delay cost so that the results would be more useful in the exploratory data analysis.  
